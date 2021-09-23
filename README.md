@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Rust                  25 mins         ██████████████████████░░░   87.53 % 
+TOML                  2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Sublime Text Config   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 ```
 <!--END_SECTION:waka-->
