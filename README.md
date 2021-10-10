@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Rust       9 hrs 37 mins   ███████████████████████▒░   93.63 % 
-TOML       23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Markdown   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Rust       10 hrs 42 mins  ████████████████████████░   96.51 % 
+Markdown   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+TOML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 <!--END_SECTION:waka-->
