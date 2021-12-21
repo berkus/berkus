@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Text       40 mins         ███████████░░░░░░░░░░░░░░   44.59 % 
-Rust       33 mins         █████████░░░░░░░░░░░░░░░░   36.42 % 
-Assembly   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-JSON       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Docker     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Rust       14 mins         █████████▒░░░░░░░░░░░░░░░   37.85 % 
+Text       13 mins         █████████░░░░░░░░░░░░░░░░   35.75 % 
+Assembly   7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+TOML       2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 ```
 <!--END_SECTION:waka-->
