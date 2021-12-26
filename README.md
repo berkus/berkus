@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Rust       2 mins          ██████████████████▒░░░░░░   73.86 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
