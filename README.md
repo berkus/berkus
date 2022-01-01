@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   1 hr 47 mins    ██████████████████▓░░░░░░   74.11 % 
+Text       18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Rust       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+TOML       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 <!--END_SECTION:waka-->
