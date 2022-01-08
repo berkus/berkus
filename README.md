@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Text       18 mins         ████████████▒░░░░░░░░░░░░   48.74 % 
-Rust       9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.44 % 
-TOML       7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Markdown   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
