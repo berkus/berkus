@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Rust       10 hrs 1 min    █████████████████████▓░░░   87.04 % 
-TOML       1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Text       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-C++        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Total: 9 hrs 32 mins
+
+Rust       8 hrs 6 mins    █████████████████████▒░░░   84.98 % 
+TOML       1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Text       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+INI        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 <!--END_SECTION:waka-->
