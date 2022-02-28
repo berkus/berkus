@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
 ```text
-Rust    16 mins         █████████▒░░░░░░░░░░░░░░░   37.53 % 
-Other   15 mins         █████████░░░░░░░░░░░░░░░░   35.38 % 
-TOML    9 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.55 % 
-YAML    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Rust    16 mins         █████████▒░░░░░░░░░░░░░░░   37.53 %
+Other   15 mins         █████████░░░░░░░░░░░░░░░░   35.38 %
 ```
+
 <!--END_SECTION:waka-->
