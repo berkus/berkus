@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TOML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML       44 mins         ████████████████▓░░░░░░░░   66.36 %
+Rust       18 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
+Markdown   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+TOML       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
