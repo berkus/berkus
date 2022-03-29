@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-YAML       44 mins         ████████████████▓░░░░░░░░   66.36 %
-Rust       18 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
-Markdown   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-TOML       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+YAML       44 mins         ███████████████▓░░░░░░░░░   63.16 %
+Rust       18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
+TOML       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+Markdown   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
