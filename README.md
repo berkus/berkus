@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust             8 hrs 28 mins   ████████████████████████▓   98.23 %
-TOML             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Rust             7 hrs 29 mins   ████████████████████████▓   98.07 %
+TOML             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
