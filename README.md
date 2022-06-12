@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C++     9 mins          ███████████▒░░░░░░░░░░░░░   45.11 %
-TOML    6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.77 %
-Rust    4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-Other   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+TOML    19 mins         █████████▓░░░░░░░░░░░░░░░   38.24 %
+Other   12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
 ```
 
 <!--END_SECTION:waka-->
