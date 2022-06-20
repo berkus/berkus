@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust         2 hrs 22 mins   █████████████████████▒░░░   85.38 %
-Devicetree   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-Assembly     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-TOML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Rust         53 mins         ███████████████████▒░░░░░   77.99 %
+Devicetree   15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
 ```
 
 <!--END_SECTION:waka-->
