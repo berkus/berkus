@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust   26 mins         █████████████████████████   99.95 %
-C++    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Rust    50 mins         █████████▒░░░░░░░░░░░░░░░   36.69 %
+INI     44 mins         ████████░░░░░░░░░░░░░░░░░   32.12 %
+Other   17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
 ```
 
 <!--END_SECTION:waka-->
