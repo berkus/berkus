@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Sublime Text Config   13 mins         █████████████████████████   100.00 %
+Sublime Text Config   6 mins          █████████████████████████   100.00 %
 Other                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
