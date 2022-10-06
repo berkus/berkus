@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust       2 hrs 8 mins    ████████████████████░░░░░   80.43 %
-TOML       30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
-Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Rust       1 hr 57 mins    ██████████████████░░░░░░░   72.44 %
+TOML       43 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.99 %
+Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
