@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust       1 hr 57 mins    ██████████████████░░░░░░░   72.44 %
-TOML       43 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.99 %
-Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Rust       2 hrs 28 mins   ██████████████▓░░░░░░░░░░   58.33 %
+TOML       52 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
+Text       23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+fish       15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+Assembly   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
