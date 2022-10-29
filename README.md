@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Vesper](https://github.com/metta-systems/vesper), a kernel for my new OS.
 - 🔭 I’m also building a Voron 2.4R2 3D printer.
-- 🌱 I’m currently learning [FORTH](http://forth.com/starting-forth/)
+- 🌱 I’m currently learning [FORTH](http://forth.com/starting-forth/) and [F#](https://fsharpforfunandprofit.com/)
 
 💼 My recent activity:
 
