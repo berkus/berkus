@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TOML   1 hr 21 mins    █████████████████████▒░░░   85.97 %
+Text   10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Rust   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
