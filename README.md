@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-HTML    1 hr 48 mins    █████████████████░░░░░░░░   67.60 %
-Other   24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+HTML       2 hrs 5 mins    ███████████████░░░░░░░░░░   60.29 %
+CSS        44 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
+Other      24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
 ```
 
 <!--END_SECTION:waka-->
