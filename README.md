@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-CSS        20 mins         █████████▒░░░░░░░░░░░░░░░   37.62 %
-HTML       19 mins         ████████▓░░░░░░░░░░░░░░░░   34.67 %
-AsciiDoc   9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-Other      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+CSS        20 mins         ███████████░░░░░░░░░░░░░░   43.36 %
+HTML       17 mins         █████████░░░░░░░░░░░░░░░░   35.94 %
+AsciiDoc   9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
 ```
 
 <!--END_SECTION:waka-->
