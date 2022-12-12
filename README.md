@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust       3 hrs 58 mins   ██████████████▒░░░░░░░░░░   56.84 %
-TOML       2 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   35.96 %
-Text       27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Rust    3 hrs 18 mins   ██████████████████▒░░░░░░   72.89 %
+TOML    46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+Text    25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
