@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML     4 mins          █████████████████▒░░░░░░░   69.01 %
+Python   2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.99 %
 ```
 
 <!--END_SECTION:waka-->
