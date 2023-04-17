@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-textmate   0 secs          ███████████████████████▓░   94.50 %
-Rust       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
