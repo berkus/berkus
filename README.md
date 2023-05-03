@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TOML       34 mins         ████████████████████▒░░░░   80.69 %
+Rust       5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+Text       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+textmate   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
