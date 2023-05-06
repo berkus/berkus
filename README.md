@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 TOML       45 mins         ███████████████░░░░░░░░░░   60.23 %
 Rust       16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
 Other      10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+Text       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+textmate   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
