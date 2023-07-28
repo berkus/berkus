@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             7 hrs 31 mins   ████████████████░░░░░░░░░   64.25 %
-Text             1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-TOML             1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-Markdown         1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Rust             6 hrs 50 mins   ██████████████▓░░░░░░░░░░   58.44 %
+TOML             1 hr 39 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+Text             1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
+Markdown         1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
 GitIgnore file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
