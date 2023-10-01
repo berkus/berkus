@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust       24 mins         ████████████▓░░░░░░░░░░░░   50.62 %
+TOML       16 mins         ████████▓░░░░░░░░░░░░░░░░   34.39 %
+Markdown   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+C++        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Makefile   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
