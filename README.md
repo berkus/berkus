@@ -24,11 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TOML       23 mins         ███████████████████████▓░   94.28 %
-Assembly   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Rust       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-textmate   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
