@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust   26 mins         ██████████████████▓░░░░░░   74.65 %
+TOML   8 mins          ██████░░░░░░░░░░░░░░░░░░░   24.62 %
+Text   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
