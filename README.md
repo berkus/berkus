@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TOML   35 mins         ████████████████████▒░░░░   81.02 %
-C++    4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-Rust   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+TOML   43 mins         ████████████████████░░░░░   80.07 %
+Rust   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+C++    4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
 ```
 
 <!--END_SECTION:waka-->
