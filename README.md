@@ -24,10 +24,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   5 mins          ███████████████████████░░   92.06 %
-Bash         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-TOML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Rust         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+SSH Config   5 mins          ████████████████████████▓   98.65 %
+Rust         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
