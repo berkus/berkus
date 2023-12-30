@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   5 mins          ███████████████████████▓░   94.01 %
-TOML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Rust         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+TOML                  36 mins         ████████▒░░░░░░░░░░░░░░░░   33.67 %
+JSON                  33 mins         ████████░░░░░░░░░░░░░░░░░   31.47 %
+Markdown              15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+SSH Config            14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Sublime Text Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
