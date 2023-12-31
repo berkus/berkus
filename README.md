@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TOML                  36 mins         ████████▒░░░░░░░░░░░░░░░░   33.67 %
-JSON                  33 mins         ████████░░░░░░░░░░░░░░░░░   31.47 %
-Markdown              15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-SSH Config            14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-Sublime Text Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+TOML                  42 mins         █████████▓░░░░░░░░░░░░░░░   38.79 %
+JSON                  33 mins         ███████▓░░░░░░░░░░░░░░░░░   31.19 %
+Markdown              16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+SSH Config            9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Sublime Text Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
