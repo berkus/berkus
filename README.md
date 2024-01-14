@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-fish                  31 mins         ███████████░░░░░░░░░░░░░░   44.13 %
-Bash                  26 mins         █████████▒░░░░░░░░░░░░░░░   37.68 %
-JavaScript            8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
-Sublime Text Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-C++                   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+TypeScript            1 hr 12 mins    ████████▓░░░░░░░░░░░░░░░░   34.58 %
+JavaScript            36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+fish                  31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
+Bash                  30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
+Other                 15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
 ```
 
 <!--END_SECTION:waka-->
