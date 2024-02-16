@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         1 min           ███████████▓░░░░░░░░░░░░░   47.26 %
-TOML         1 min           █████████░░░░░░░░░░░░░░░░   35.48 %
-Markdown     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Makefile     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+JSON         1 min           █████████████████████▓░░░   87.25 %
+TypeScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+AsciiDoc     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Java         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
