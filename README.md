@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   0 secs          █████████████████████████   100.00 %
+Rust     3 hrs 27 mins   ███████████████████████▓░   94.13 %
+C        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
