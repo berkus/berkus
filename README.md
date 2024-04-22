@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 27 mins   ████████████▓░░░░░░░░░░░░   50.89 %
-Java         2 hrs 51 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
-Rust         1 hr 55 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
-TOML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Rust         7 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.49 %
+TypeScript   5 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   30.19 %
+Java         2 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+TOML         1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+AsciiDoc     51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->
