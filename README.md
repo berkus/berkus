@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   3 hrs 2 mins    █████████████████████████   100.00 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java   33 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
