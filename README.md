@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   39 mins         █████████████████████████   99.40 %
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+JSON    35 mins         ███████████████▒░░░░░░░░░   61.39 %
+Rust    17 mins         ███████▓░░░░░░░░░░░░░░░░░   30.44 %
+TOML    4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
