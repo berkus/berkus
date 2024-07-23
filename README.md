@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   3 hrs 21 mins   ████████████▓░░░░░░░░░░░░   50.17 %
-YAML         1 hr 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-Bash         44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-JSON         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-TOML         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+PowerShell   3 hrs 27 mins   █████████████░░░░░░░░░░░░   52.25 %
+YAML         1 hr 11 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
+Bash         44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+JSON         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+TOML         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
