@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         1 hr 38 mins    ███████████░░░░░░░░░░░░░░   43.84 %
-Makefile     1 hr            ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
-PowerShell   40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
-Markdown     12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+YAML         1 hr 37 mins    ███████████▓░░░░░░░░░░░░░   46.94 %
+Makefile     1 hr            ███████▒░░░░░░░░░░░░░░░░░   29.07 %
+PowerShell   35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
+Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
