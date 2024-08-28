@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   19 mins         ███████████░░░░░░░░░░░░░░   44.29 %
-Rust       16 mins         █████████▒░░░░░░░░░░░░░░░   36.83 %
-TOML       8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Markdown   19 mins         █████████▓░░░░░░░░░░░░░░░   39.08 %
+Rust       16 mins         ████████░░░░░░░░░░░░░░░░░   32.49 %
+TOML       14 mins         ███████░░░░░░░░░░░░░░░░░░   27.78 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
