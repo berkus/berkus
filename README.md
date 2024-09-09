@@ -24,10 +24,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash     4 mins          ████████████████████▒░░░░   80.98 %
-Python   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-Rust     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Rust   0 secs          ███████████████████████▒░   93.99 %
+TOML   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
 ```
 
 <!--END_SECTION:waka-->
