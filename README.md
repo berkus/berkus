@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         2 hrs 36 mins   ██████████░░░░░░░░░░░░░░░   39.61 %
-PowerShell   1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   20.39 %
-Markdown     1 hr 1 min      ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
-fish         45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
-YAML         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+Rust         4 hrs 13 mins   ██████████████░░░░░░░░░░░   55.60 %
+PowerShell   1 hr 31 mins    █████░░░░░░░░░░░░░░░░░░░░   19.97 %
+Markdown     1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+YAML         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Makefile     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
