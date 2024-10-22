@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   6 mins          █████████████████████████   100.00 %
+TOML   43 mins         ████████████████████▒░░░░   81.87 %
+Rust   9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
 ```
 
 <!--END_SECTION:waka-->
