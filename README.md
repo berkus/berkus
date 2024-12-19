@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust    6 hrs 7 mins    ██████████████████████▒░░   89.38 %
-TOML    21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-YAML    21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-jsonc   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Rust    4 hrs 4 mins    █████████████████████████   99.72 %
+TOML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+jsonc   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
