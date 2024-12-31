@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-SCSS           6 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   35.68 %
-HTML           4 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   27.51 %
-Markdown       3 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
-TOML           35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-Rust           31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+SCSS           6 hrs 15 mins   █████████▒░░░░░░░░░░░░░░░   37.42 %
+HTML           4 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   29.05 %
+Markdown       3 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+TOML           35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Bash           29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
