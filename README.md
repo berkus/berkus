@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   30 mins         ██████████████████████▓░░   91.30 %
-HTML   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-fish   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-SCSS   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Rust   30 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
