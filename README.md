@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   48 mins         ████████████████▓░░░░░░░░   66.56 %
-TOML   24 mins         ████████▒░░░░░░░░░░░░░░░░   33.37 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Rust       34 mins         ████████▒░░░░░░░░░░░░░░░░   33.66 %
+TOML       27 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.66 %
+Prolog     12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+Makefile   10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+JSON       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
 ```
 
 <!--END_SECTION:waka-->
