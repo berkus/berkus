@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       1 hr 49 mins    ████████░░░░░░░░░░░░░░░░░   32.52 %
-Markdown   1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   19.45 %
-TOML       59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
-SCSS       23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Makefile   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Rust       1 hr 43 mins    ████████░░░░░░░░░░░░░░░░░   31.36 %
+Markdown   1 hr 4 mins     █████░░░░░░░░░░░░░░░░░░░░   19.62 %
+TOML       58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+SCSS       23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Makefile   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
 ```
 
 <!--END_SECTION:waka-->
