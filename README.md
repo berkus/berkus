@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-jsonc   10 mins         ███████████▓░░░░░░░░░░░░░   47.06 %
-JSON    7 mins          █████████░░░░░░░░░░░░░░░░   35.55 %
-TOML    3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+jsonc        10 mins         ████████░░░░░░░░░░░░░░░░░   32.05 %
+TOML         9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.01 %
+JSON         7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.21 %
+Makefile     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Git Config   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
 
 <!--END_SECTION:waka-->
