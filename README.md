@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   1 hr 10 mins    ██████████████████▓░░░░░░   74.39 %
-Rust   24 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
