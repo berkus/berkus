@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust           1 hr 36 mins    ████████████████████▓░░░░   83.12 %
-TOML           15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-shell script   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-csharp         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Python         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Rust           5 hrs 33 mins   █████████████████████▒░░░   85.77 %
+TOML           28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+csharp         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Just           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Makefile       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
