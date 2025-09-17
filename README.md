@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust           7 hrs 39 mins   ████████████░░░░░░░░░░░░░   47.82 %
-TOML           3 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   24.11 %
-C#             2 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
-git ignore     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Assembly       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Rust           8 hrs 35 mins   ███████████░░░░░░░░░░░░░░   44.37 %
+TOML           4 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
+C#             2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+Assembly       55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+git ignore     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
