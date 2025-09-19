@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust           8 hrs 11 mins   ██████████░░░░░░░░░░░░░░░   39.79 %
-TOML           5 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   28.86 %
-C#             2 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-Assembly       1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Just           43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Rust           8 hrs 19 mins   █████████▓░░░░░░░░░░░░░░░   38.24 %
+TOML           6 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   31.13 %
+C#             2 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+Assembly       1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Just           44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
