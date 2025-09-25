@@ -35,4 +35,6 @@ JSON         35 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+📈 My overall activity:
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkus&theme=flag_india)
