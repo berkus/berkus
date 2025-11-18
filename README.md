@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   4 mins          ███████████████████████▓░   95.32 %
-Rust   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+JSON    18 mins         ███████████▒░░░░░░░░░░░░░   45.57 %
+Rust    15 mins         █████████▓░░░░░░░░░░░░░░░   38.18 %
+YAML    4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+jsonc   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
 
 <!--END_SECTION:waka-->
