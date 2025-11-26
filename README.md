@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       26 mins         ██████████████████▒░░░░░░   72.73 %
-jsonc      7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
-Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Just       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Rust       26 mins         ███████████████████▒░░░░░   76.96 %
+jsonc      7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
