@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TOML       12 mins         █████████████░░░░░░░░░░░░   52.54 %
-fish       7 mins          ████████░░░░░░░░░░░░░░░░░   32.60 %
-Rust       3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Rust         33 mins         █████████████░░░░░░░░░░░░   51.82 %
+TOML         15 mins         ██████░░░░░░░░░░░░░░░░░░░   23.50 %
+Markdown     8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+fish         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+git ignore   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
