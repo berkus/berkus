@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       5 hrs 17 mins   ████████████████████▒░░░░   81.51 %
-Markdown   1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
-TOML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Rust         6 hrs 5 mins    ███████████████████▓░░░░░   79.11 %
+Markdown     1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+C            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Dockerfile   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+jsonc        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
