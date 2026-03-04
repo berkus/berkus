@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   10 mins               ███████████████░░░░░░░░░░   60.58 %
-TOML   6 mins                ██████████░░░░░░░░░░░░░░░   39.42 %
+YAML   10 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
