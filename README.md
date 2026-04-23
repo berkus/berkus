@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Docker         1 hr 41 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
-Rust           1 hr 32 mins          █████░░░░░░░░░░░░░░░░░░░░   20.20 %
-YAML           49 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-TOML           45 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Makefile       41 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+Docker         1 hr 41 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
+Rust           1 hr 40 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.87 %
+Makefile       41 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+Markdown       37 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+TOML           34 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
 ```
 
 <!--END_SECTION:waka-->
