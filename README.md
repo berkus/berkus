@@ -26,11 +26,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     52 mins               ███████▒░░░░░░░░░░░░░░░░░   29.36 %
-C#           48 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.15 %
-csharp       36 mins               █████░░░░░░░░░░░░░░░░░░░░   20.01 %
-Rust         29 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-TOML         4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Markdown   1 hr 2 mins           ███████████████████████▒░   93.42 %
+YAML       4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Rust       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
