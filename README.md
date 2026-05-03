@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 hrs 17 mins         ██████████████████████░░░   87.53 %
-Text       12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-YAML       6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Rust       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown     5 hrs 12 mins         ███████████████████▒░░░░░   77.25 %
+Rust         39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Other        23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Text         12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+TOML         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
