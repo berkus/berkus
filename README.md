@@ -26,7 +26,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-fish   3 mins                █████████████████████████   100.00 %
+YAML       23 mins               ██████████████░░░░░░░░░░░   56.49 %
+Makefile   8 mins                █████░░░░░░░░░░░░░░░░░░░░   19.54 %
+Just       3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+fish       3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Python     3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
 ```
 
 <!--END_SECTION:waka-->
