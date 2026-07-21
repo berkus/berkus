@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown       2 mins                ████████████▒░░░░░░░░░░░░   49.03 %
-shell script   2 mins                ████████████▒░░░░░░░░░░░░   48.70 %
-Rust           0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Markdown       20 mins               █████████████████████▓░░░   86.94 %
+shell script   2 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+Rust           0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+TOML           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
