@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ezhil      3 mins                ██████████████████▒░░░░░░   73.33 %
+Nix        1 min                 ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
+Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
