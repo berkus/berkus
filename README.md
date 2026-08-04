@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil      3 mins                ██████████████████▒░░░░░░   73.33 %
-Nix        1 min                 ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
-Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+JSON       14 mins               █████████████████▒░░░░░░░   69.76 %
+Ezhil      3 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+Nix        2 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
